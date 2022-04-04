@@ -2,6 +2,8 @@
 
 I wanted to gather resources under a repo that those who want to learn MAUI and MAUI Blazor can benefit from. 
 
+<hr/>
+
 ### Topics
 - [Github Repos](https://github.com/aokocax/MAUI-Resources/edit/main/README.md#github-repos) 
 - [Documents & Sites](https://github.com/aokocax/MAUI-Resources/edit/main/README.md#documents--sites) 
@@ -12,6 +14,8 @@ I wanted to gather resources under a repo that those who want to learn MAUI and 
 - [Articles](https://github.com/aokocax/MAUI-Resources/edit/main/README.md#articles)
 - [Others](https://github.com/aokocax/MAUI-Resources/edit/main/README.md#others)
 - [Books](https://github.com/aokocax/MAUI-Resources/edit/main/README.md#other)
+
+<hr/>
 
 ### Github Repos
 [Main Repo](https://github.com/dotnet/maui)
@@ -30,6 +34,8 @@ I wanted to gather resources under a repo that those who want to learn MAUI and 
 
 [Scientific Calculator](https://github.com/naweed/MauiScientificCalculator)
 
+<hr/>
+
 ### Documents & Sites
 [MAUI Documentation](https://docs.microsoft.com/en-us/dotnet/maui/) 
 
@@ -37,6 +43,7 @@ I wanted to gather resources under a repo that those who want to learn MAUI and 
 
 [MAUI Blog](https://devblogs.microsoft.com/dotnet/category/net-maui/)
 
+<hr/>
 
 ### Youtube Channels
 [James Montemagno](https://www.youtube.com/c/JamesMontemagno)
@@ -49,7 +56,11 @@ I wanted to gather resources under a repo that those who want to learn MAUI and 
 
 [Javier Suarez (Esp)](https://www.youtube.com/c/JavierSu%C3%A1rezRuiz)
 
+<hr/>
+
 ### Twitter Accounts
+
+[.NET MAUI List](https://twitter.com/i/lists/1484777191871238146)
 
 Steve Sanderson https://twitter.com/stevensanderson
 
@@ -69,18 +80,25 @@ Jonathan Dick https://twitter.com/redth
 
 Shane Neuville https://twitter.com/PureWeen
 
+<hr/>
 
 ### Tutorials
 [MAUI build your first app](https://docs.microsoft.com/en-us/dotnet/maui/get-started/first-app?pivots=devices-android)
 
 [Blazor Tutorials](https://dotnet.microsoft.com/en-us/learn/aspnet/blazor-tutorial/intro)
 
+<hr/>
+
 ### Newsletters
 [Weekly Xamarin](https://weeklyxamarin.com/)
+
+<hr/>
 
 ### Others
 [Reddit Xamarin Developers](https://www.reddit.com/r/xamarindevelopers/)
 [Xamarin MAUI Discord Channel](https://discord.com/channels/790949675137630268/)
+
+<hr/>
 
 ### Books
 No published book yet 
